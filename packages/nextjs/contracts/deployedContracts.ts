@@ -674,7 +674,7 @@ const deployedContracts = {
   },
   11155111: {
     YourCollectible: {
-      address: "0x3a63245ec22f565831890b65dda3cada80671930",
+      address: "0x63de359e23413b7026f27fe4c04e635fa2abc653",
       abi: [
         {
           type: "constructor",
@@ -1336,6 +1336,7 @@ const deployedContracts = {
         },
       ],
       inheritedFunctions: {},
+      deployedOnBlock: 10837753,
     },
   },
 } as const;
